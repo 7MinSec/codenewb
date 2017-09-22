@@ -1,2 +1,16 @@
 # codenewb
-I'm a newb at coding, so why not put my unholy creations here for other to LOL at while I learn?
+
+## Who are you?
+Hey, I'm [Brian](https://brianjohnson.tv) and I really like [information security](https://7ms.us).  
+
+## What are you, some kind of newbie at coding?
+Yes.  The only C# I'm familiar with is one on a piano (*rimshot!*).
+
+## What are you doing with this project?
+I enrolled in a [Pluralsight](https://pluralsight.com) course to learn more about coding, and thought I'd use this GitHub repository as an online notebook/journal of my progress.  
+
+## Ha!  I bet I'm going to point, laugh and LOL at the stuff you put up here!
+Go for it!
+
+## My 2-year-old can code better than you!
+Well my dad can beat up your dad.

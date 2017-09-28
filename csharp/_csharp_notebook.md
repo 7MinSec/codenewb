@@ -186,10 +186,53 @@ namespace Hello
 }
 `````
 
-## Classes
+## Classes and objects
 Classes can represent people, accounts, products - whatever you want!  
 
 When you're just starting with programming, classes can be considered abstractions for stuff we need to track, like people, places and things.
 
+Think of classes as a cookie cutter, where classes stamp out objects from the memory of the computer - and it's *objects* that hold the data we need!
+
+Here's a grade book program we're working with:
+
+````
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Grades
+{
+    class Program
+    {
+        static void Main(string[] args)
+        {
+            GradeBook book = new GradeBook();
+            book.AddGrade(91);
+            book.AddGrade(89.5);
+        }
+    }
+}
+
+````
+Take a look at this line:
+
+`GradeBook book = new GradeBook();`
+
+What we're saying here is "Give me a new instance of the GradeBook class, and store a reference to it called *book*."  The parentheses invoke a constructor to create a new instance of the gradebook.  
+
+In our *program.cs* code, this is an issue:
+
+`book.AddGrade(89.5);`
+
+The reason it's an issue is that in the *gradebook.cs* code we said that *grade* must be a *float*.  A *float* is a single precision floating point number.  It's short for "floating point," and basically just means a number with a point something on the end.  
+
+However, 89.5 is a double precision floating number, and C# won't convert that automatically.  So we need to tell C# that the value should be treated as a floating point number.  So now we change the line to:
+
+`book.AddGrade(89.5);`
+
+
+
 ---
-*I left off on C# fundamentals with Visual Studio 2015, Classes and Objects*
+*I left off on C# fundamentals with Visual Studio 2015, Constructors*

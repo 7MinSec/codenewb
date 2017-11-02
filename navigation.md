@@ -3,25 +3,25 @@ Codenewb
 
 [C#]()
 
-- [Notebook](csharp/_csharp_notebook.md)
+- [Notebook](csharp/csharp_notebook.md)
 - [Practice exercises](csharp/practice_exercises/index.md)
 
 -   ----
 
 [Javascript]()
 
-- [Notebook](javascript/_javascript_notebook.md)
+- [Notebook](javascript/javascript_notebook.md)
 - [Practice exercises](javascript/practice_exercises/index.md)
 
 [Powershell]()
 
-- [Notebook](powershell/_powershell_notebook.md)
+- [Notebook](powershell/powershell_notebook.md)
 
 - ----
 
 [Python]()
 
-- [Notebook](python/_python_notebook.md)
+- [Notebook](python/python_notebook.md)
 
 
 <!-- Below is just a bunch of stuff I borrowed off the SANS Blue Team Wiki so I can build my own menu structure

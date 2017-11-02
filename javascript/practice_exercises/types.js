@@ -1,4 +1,4 @@
-// Variables have a data type - a classificaiton of a value.
+// Variables have a data type - a classification of a value.
 // We might call "2" a number or string but what does javascript think it is?
 
 var a = 5, b = 10, c = 'fart', d = '666', e='69';

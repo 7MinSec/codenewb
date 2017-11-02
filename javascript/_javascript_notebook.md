@@ -34,6 +34,37 @@ var rollMe = function(sizeOTheDie) {
 ````
 The *result* is not available outside this function because it was declared inside the function.  However, a function can invoke something that's declared outside?  Yes it can.  Again, read through [dieRoll.js](dieRoll.js), but essentially while *sizeOTheDie* and *result* are considered local variables to a function, *dieOne*, *dieTwo*, and *dieThree* are considered global variables - they're not defined inside a function, so they're available anywhere!
 
+## Controls
+Check out the [control.js](practice_exercises/control.js) for an example of how to simulate a die roll and then comment based on the result of the roll.  
+
+## Operators
+Check out the [control2.js](practice_exercises/control2.js) for an example of providing die roll commentary depending on if multiple values are true (or a mix of true and false).  
+
+### And operator
+When dealing with the and operator (`&&`):
+
+* true && true is true
+* true && false is false
+* false && false is false
+* false && true is false
+
+
+### Or operator
+When dealing with the or operator (`||`):
+
+* true || true is true
+* true || false is true
+* false || true is true
+* false || false is false
+
+
+### Not operator
+Check out [this example](practice_exercises/control3.js).  When dealing with the not operator (`!`):
+
+* !true is false
+* !false is true
+
+
 
 --
-* *9/27 - left off at Learning to Program - Functions - Summary*
+* *10/4 - left off at Learning to Program > Branch... > Variations* 

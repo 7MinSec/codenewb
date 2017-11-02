@@ -79,9 +79,46 @@ Similar to integers but can have decimals.
 Remember, you don't need to worry about types (at least initially).  
 
 ## Strings
+Example: 
+
+``Hello World`` == `"Hello World"` == `"""Hello World"""`
+`"hello".capitalize() == "Hello"`
+`hello".replace("e", "a") == "hallo"`
+`"hello".isalpha() == True`
+`"123".isdigit() == True` # useful when converting to an int
+`"some,csv,values".split(",") == ["some", "csv", "values"]`
+
+When you receive a list separated by pipes, commas, etc. 
+
+String *format* is handy if you have a variable like this:
+
+`name = "Brian"`
+`machine = "Brian's machine"`
+
+We need to then write something such as `"It's a pleasure to meet you {0}.  I'd like to introduce myself.  I am {1}".format(name, machine)`
+
+This is because `name` is 0 (the first variable) and 1 is `machine`.  Remember, Python always starts with *0*!
+
+In Python 3.6 you can do something like:
+
+`f"It's a pleasure to meet you {0}.  I'd like to introduce myself.  I am {1}".format(name, machine)`
+
+Note the line has to be prefixed with `f`
+
+## Boolean and None
+Boolean means true or false
+
+`i-am-rich = True`
+
+`i-am-poor = False`
+
+Note that True starts with "T" and False with "F"
+
+In other words, `1 = true` and `0 = false`.  
+
 
 ---
 
-* *9/27: Left off on strings section*
+* *9/27: Left off on Python Getting Started > If Statements*
 
 

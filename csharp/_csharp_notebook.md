@@ -232,7 +232,13 @@ However, 89.5 is a double precision floating number, and C# won't convert that a
 
 `book.AddGrade(89.5);`
 
+## Constructor
+Constructors help construct an object.  
 
+You can type the short phrase `ctor` and hit **Tab** twice to write the constructor for us!  Inside the constructor I can control the initialization of our object.  
+
+## Note to self
+I'm writing this note on 10/11/17: I feel like I've gotta stick a bookmark in C# right now.  I'm trying to learn this, Python and Powershell *and* Node at the same time...and my head is spinning.  I'm finding the other languages more digestible and so I'm going to focus my attention there first and then come back to C# when I'm a bit more comfortable with coding in general.
 
 ---
-*I left off on C# fundamentals with Visual Studio 2015, Constructors*
+*I left off on C# fundamentals with Visual Studio 2015, Classes vs Variables*

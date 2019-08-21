@@ -4,7 +4,7 @@ Codenewb
 [C#]()
 
 - **Pluralsight**
-- [Notebook](https://codenewb.rocks/csharp/pluralsight/notebook.md)
+- [Notebook](csharp/pluralsight/notebook.md)
 - [Practice exercises](https://codenewb.rocks/csharp/pluralsight/practice_exercises/index.md)
 
 [Javascript]()

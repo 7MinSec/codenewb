@@ -5,11 +5,11 @@ Welcome to Codenewb by 7 Minute Security
 
 Uh...what's "codenewb"?
 --------
-It's my live notebook and practice exercises for learning Python, Powershell, C# and Javascript.  
+It's my live notebook and practice exercises for learning Python, Powershell, C#, Javascript and other languages.  
 
 Where are you learning this stuff?
 --------
-I signed up for a [Pluralsight](http://pluralsight.com) account.  It's a great, affordable learning platform for a whole bunch of cool IT/security stuff (and no, they're not paying me to say this).
+I signed up for a [Pluralsight](http://pluralsight.com) account.  It's a great, affordable learning platform for a whole bunch of cool IT/security stuff (and no, they're not paying me to say this).  I also recently signed up for a [Codecademy](https://www.codecademy.com/) subscription.
 
 Pfft! You don't know how to code?
 --------

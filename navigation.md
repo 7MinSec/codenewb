@@ -3,19 +3,22 @@ Codenewb
 
 [C#]()
 
-- [Notebook](csharp/csharp_notebook.md)
-- [Practice exercises](csharp/practice_exercises/index.md)
+- **Pluralsight**
+- [Notebook](https://codenewb.rocks/csharp/pluralsight/notebook.md)
+- [Practice exercises](https://codenewb.rocks/csharp/pluralsight/practice_exercises/index.md)
 
 [Javascript]()
 
-
-- [Notebook](javascript/javascript_notebook.md)
-- [Practice exercises](javascript/practice_exercises/index.md)
+- **Pluralsight**
+- [Notebook](https://codenewb.rocks/javascript/pluralsight/notebook.md)
+- [Practice exercises](https://codenewb.rocks/javascript/pluralsight/practice_exercises/index.md)
 
 [Powershell]()
 
-- [Notebook](powershell/powershell_notebook.md)
+- **Pluralsight**
+- [Notebook](https://codenewb.rocks/powershell/pluralsight/notebook.md)
 
 [Python]()
 
-- [Notebook](python/python_notebook.md)
+- **Pluralsight**
+- [Notebook](https://codenewb.rocks/python/pluralsight/notebook.md)

@@ -7,7 +7,7 @@ Hey, I'm [Brian](https://brianjohnson.tv) and I really like [information securit
 Yes.  The only C# I'm familiar with is one on a piano (*rimshot!*).
 
 ## What are you doing with this project?
-I enrolled in a few [Pluralsight](https://pluralsight.com) course to learn more about coding (specifically C#, Javascript, Powershell and Python), and thought I'd use this GitHub repository as an online notebook/journal of my progress.  
+I enrolled in a few [Pluralsight](https://pluralsight.com) and [Codecademy](https://www.codecademy.com/) courses to learn more about coding (specifically C#, JavaScript, Powershell and Python), and thought I'd use this GitHub repository as an online notebook/journal of my progress.  
 
 ## Ha!  I bet I'm going to point, laugh and LOL at the stuff you put up here!
 Go for it!

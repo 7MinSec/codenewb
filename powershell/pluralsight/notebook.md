@@ -1,5 +1,5 @@
 # PowerShell
-This is my working notebook as I journey into PowerShell.  I'll update it as I follow along with the Pluralsight course called [Your First Day with Powershell](https://app.pluralsight.com/library/courses/powershell-first-day/table-of-contents) from [Jeff Hicks](https://twitter.com/jeffhicks). 
+This is my working notebook as I journey into PowerShell.  I'll update it as I follow along with the Pluralsight course called [Your First Day with Powershell](https://app.pluralsight.com/library/courses/powershell-first-day/table-of-contents) from [Jeff Hicks](https://twitter.com/jeffhicks).
 
 ## PowerShell background
 PowerShell is a management *engine* built on .Net framework.  The engine itself is hosted by an application to allow you to run PowerShell.
@@ -59,7 +59,7 @@ And when that's all done, you can type **clear** to clear the console out!
 `get-eventlog system -newest 5` will give you last 5 entries
 
 ## Discovering commands
-Use `help get-command` for getting all the commands that are installed on the computer. 
+Use `help get-command` for getting all the commands that are installed on the computer.
 
 Running `get-command` will list ALL commands that PS recognizes right from a command prompt.  
 
@@ -76,4 +76,4 @@ When you run commands in ISE, one gotcha is if you run **netsh** it'll bark at y
 
 
 ---
-* *10/4: Your First Day with Powershell - left off on Getting started w/Powershell, Learning How to Use Aliases*
+* *Update 8/21 - I've paused my Pluralsight subscription in lieu of a [Codecademy](https://www.codecademy.com/) subscription*

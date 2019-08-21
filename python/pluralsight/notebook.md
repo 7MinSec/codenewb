@@ -1,11 +1,10 @@
-# Python
-This is my live notebook as I chug through some Python classes over at [Pluralsight](https://pluralsight.com) and [Codecademy](https://www.codecademy.com/learn)
+# Python: Getting Started
 
-## [Python: Getting Started](https://app.pluralsight.com/library/courses/python-getting-started) and [Python Fundamentals](https://app.pluralsight.com/courses/python-fundamentals)
+These notes come from the [Python Getting Started](https://app.pluralsight.com/library/courses/python-getting-started) and [Python Fundamentals](https://app.pluralsight.com/courses/python-fundamentals) courses
 
 ---
 
-### Intro to Python
+## Intro to Python
 It's beautiful, powerful and cross-platform.  Django and Flask are Python Web frameworks.  I didn't know that :-/.  
 
 You can also do some home automation stuff!
@@ -23,10 +22,10 @@ Python's "rules" come in the form of PEPs (Python Enhancement Proposals), like P
 
 (PEP8 is usually integrated in popular Python editors)
 
-#### Python 2 vs. 3?!?!?!!?!
+### Python 2 vs. 3?!?!?!!?!
 Long and short of it?  Just use v3.  
 
-### Installing python
+## Installing python
 On Linux, it should already be there.  If you type `python --version` you'll probably see *Python 2.7.12* and if you type `python3 --version` you'll see something like *Python 3.x.x.*
 
 Also install *idle3* by issuing `apt-get install idle3`.  I ran into issues here because I'm using Kali, and apparently there are some unmet dependencies and blah blah blah.  A quick Google search led me to [this video](https://www.youtube.com/watch?v=3HLbo-Jr1sE) which explained the syntax may be as simple as:
@@ -37,7 +36,7 @@ And indeed it was!  But that seemed to just update Python2 (I need to look into 
 
 `apt-get install idle3`
 
-### Python console
+## Python console
 On Linux, type `python3` - BAM!  You're in Python console.  
 
 But, to get some additional functionality you might want to run *IDLE* so type **idle3** and you get some stuff like:
@@ -45,7 +44,7 @@ But, to get some additional functionality you might want to run *IDLE* so type *
 * code completion
 * syntax highlighting
 
-### Install Pycharm
+## Install Pycharm
 This is a nice Python editor that has a free community edition.  I followed [these instructions](http://hbrowitt.com/guides/installing-pycharm-on-kali/) to get it going on Kali, but the long and short of the instructions were:
 
 1. Go [download Pycharm](https://www.jetbrains.com/pycharm/download/download-thanks.html?platform=linux&code=PCC)
@@ -56,7 +55,7 @@ This is a nice Python editor that has a free community edition.  I followed [the
 
 4. `./pycharm.sh`.  Once this was run I took all the defaults and then when it came time to start a new project I chose **Interpreter 3.6.x** from the drop down.
 
-## Creating the Hello World script!
+# Creating the Hello World script!
 In the pycharm window, right click the project and select **New > Python file** and call it *helloworld.py*.  Now type this:
 
 ````
@@ -64,20 +63,20 @@ printf("Hello world, dude!")
 ````
 Now you can right click *helloworld.py* from the left side of the screen and choose **Run helloworld.py** (or do **Ctrl + Shift + F10** and *ka-pow!* your first Python script just ran.  Dude!
 
-### Types in Python
+## Types in Python
 In most languages, ya gotta declare a variable type (char/bool/int/etc.) before the variable itself.  You don't need to do that with Python!  This allows for quick dev time, but can become a pain when you have a ton of your own custom types.  However, in Python 3.5 you can do "Type Hinting" - which mostly helps Python IDEs/editors.  
 
-### Integers and floats
+## Integers and floats
 
-#### Integers
+### Integers
 Positive/negative numbers and zero.  They can't have a decimal!
 
-#### Floats
+### Floats
 Similar to integers but can have decimals.
 
 Remember, you don't need to worry about types (at least initially).  
 
-### Strings
+## Strings
 Example:
 
 ``Hello World`` == `"Hello World"` == `"""Hello World"""`
@@ -104,7 +103,7 @@ In Python 3.6 you can do something like:
 
 Note the line has to be prefixed with `f`
 
-### Boolean and None
+## Boolean and None
 Boolean means true or false
 
 `i-am-rich = True`
@@ -113,10 +112,4 @@ Boolean means true or false
 
 Note that True starts with "T" and False with "F"
 
-In other words, `1 = true` and `0 = false`.  
-
-**Note: I won't be updating this area for a while as I switched training providers to [Codecademy](https://www.codecademy.com/learn) which I share all my notes about below:**
-
----
-
-## [Codecademy](https://www.codecademy.com/learn)
+In other words, `1 = true` and `0 = false`.

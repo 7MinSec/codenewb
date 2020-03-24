@@ -22,6 +22,6 @@ Codenewb
 
 - **Codecademy**
 - [Notebook](https://codenewb.rocks/#python/codecademy/notebook.md)
-- [Practice exercises](https://codenewb.rocks/#/python/codecademy/practice_exercises/index.md)
+- [Practice exercises](https://codenewb.rocks/#python/codecademy/practice_exercises/practice.md)
 - **Pluralsight**
 - [Notebook](https://codenewb.rocks/#python/pluralsight/notebook.md)

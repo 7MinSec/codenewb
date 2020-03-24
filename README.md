@@ -1,7 +1,7 @@
 # codenewb
 
 ## Who are you?
-Hey, I'm [Brian](https://brianjohnson.tv) and I really like [information security](https://7ms.us).  
+Hey, I'm [Brian](https://brianjohnson.tv), I run a security company called [7 Minute Security](https://7MinSec.com) and do a podcast of the [same name](https://7ms.us).  
 
 ## What are you, some kind of newbie at coding?
 Yes.  The only C# I'm familiar with is one on a piano (*rimshot!*).

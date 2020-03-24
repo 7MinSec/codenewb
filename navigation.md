@@ -5,13 +5,13 @@ Codenewb
 
 - **Pluralsight**
 - [Notebook](https://codenewb.rocks/#csharp/pluralsight/notebook.md)
-- [Practice exercises](https://codenewb.rocks/#csharp/pluralsight/practice_exercises/index.md)
+- [Practice exercises](https://codenewb.rocks/#csharp/pluralsight/practice_exercises/practice.md)
 
 [Javascript]()
 
 - **Pluralsight**
 - [Notebook](https://codenewb.rocks/#javascript/pluralsight/notebook.md)
-- [Practice exercises](https://codenewb.rocks/#javascript/pluralsight/practice_exercises/index.md)
+- [Practice exercises](https://codenewb.rocks/#javascript/pluralsight/practice_exercises/practice.md)
 
 [Powershell]()
 
@@ -20,5 +20,8 @@ Codenewb
 
 [Python]()
 
+- **Codecademy**
+- [Notebook](https://codenewb.rocks/#python/codecademy/notebook.md)
+- [Practice exercises](https://codenewb.rocks/#/python/codecademy/practice_exercises/index.md)
 - **Pluralsight**
 - [Notebook](https://codenewb.rocks/#python/pluralsight/notebook.md)
